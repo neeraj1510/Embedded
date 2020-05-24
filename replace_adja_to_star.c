@@ -10,7 +10,7 @@ char * rem_x(char p[], char ch)
 	l=strlen(p);
 	while(j<l)
 	{
-		/* As the adding * to the string the length of the string is going to add continusouly
+		/* As the adding * to the string the length of the string is going to add continuously
 		 *  so each time we have to update the length of the string */
 		l=strlen(p);
 	//	printf("len = %d\n", l);
